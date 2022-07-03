@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bonjour 👋
+
+Je suis passioné par le développement web.  
+Je souhaite partager avec vous un projet OpenSource que je gère et développe : [GRR](https://github.com/JeromeDevome/GRR) . Ce projet permet la Gestion et de Réservation de Ressources (Salles, véhicules, matériels... et agenda du personnel).  
+  
+
+
+
 
 <!--
 **JeromeDevome/JeromeDevome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
